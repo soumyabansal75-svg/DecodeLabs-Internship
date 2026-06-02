@@ -1,5 +1,6 @@
 # Rule-Based AI Chatbot (Project 1)
-
+## 📷 Demo Output
+![Chatbot Demo](chatbot_demo.png)
 A sleek, highly efficient rule-based AI chatbot designed to demonstrate mastery over control flow, logic, and data structure optimization in Python.
 
 ---
